@@ -1,0 +1,14 @@
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Natural Language Processing
+nltk>=3.6.0
+
+# Dataset Download
+kagglehub>=0.3.0
+
+# Jupyter Notebook (optional - for running the .ipynb file)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
